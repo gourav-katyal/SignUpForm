@@ -13,5 +13,6 @@
     <string name="PasswordPlaceholder">Please Enter Your Password</string>
     <string name="Confirm">Confirm Password:</string>
     <string name="ConfirmPlaceholder">Please Re-Enter Your Password</string>
+    <string name="Confirm">Confirm Password:</string>
 
 </resources>
